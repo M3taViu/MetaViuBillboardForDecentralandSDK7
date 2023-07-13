@@ -2,7 +2,7 @@
   "ecs7": true,
   "runtimeVersion": "7",
   "display": {
-    "title": "MetaViu billboards Wiht SDK7",
+    "title": "MetaViu billboards With SDK7",
     "description": "MetaViu scene with SDK7",
     "navmapThumbnail": "images/scene-thumbnail.png",
     "favicon": "favicon_asset"
@@ -16,9 +16,9 @@
   "tags": [],
   "scene": {
     "parcels": [
-      "0,0"
+      "-64,-128"
     ],
-    "base": "0,0"
+    "base": "-64,-128"
   },
   "spawnPoints": [
     {
