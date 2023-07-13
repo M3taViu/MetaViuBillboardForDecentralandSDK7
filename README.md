@@ -23,7 +23,7 @@ This is the constructor function for the `MetaviuBillboard` class. It is used to
 Parameters:
 
 - billboardId (number): A unique identifier for each billboard. 
-     - (How to get billboard id? see instructions)
+   (How to get billboard id? see instructions)
      - First, go to https://dashboard.metaviu.io and sign in as Landowner with metamask
     ![image](https://s3.eu-central-1.amazonaws.com/cdn.metaviu.io/instructions/connect+metamask.png)
     - Click to Add New Billboard Button
