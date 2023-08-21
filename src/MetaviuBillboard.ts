@@ -214,6 +214,7 @@ class MetaviuBillboard {
       VideoPlayer.create(monitor, {
         src: contentUrl,
         playing: true,
+        loop: true,
       });
     }
 
